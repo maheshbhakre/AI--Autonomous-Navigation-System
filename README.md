@@ -22,7 +22,11 @@ Watch the animated preview below, or open/download the full-resolution video:
 ## 🖼️ PROJECT PHOTOS
 
 <p align="center">
-  <img src="images/autonomous-navigation-cover.png" alt="AI-powered autonomous navigation system project cover" width="800">
+  <img src="images/Interface.png" alt="Autonomous navigation system dashboard interface" width="800">
+</p>
+
+<p align="center">
+  <img src="images/output.png" alt="Output of the autonomous navigation system simulation" width="800">
 </p>
 
 ---
@@ -89,12 +93,8 @@ AI-AUTONOMOUS-NAVIGATION-SYSTEM/
 │       ├── launch/navigation.launch.py
 │       └── config/
 ├── images/
-│   ├── autonomous-navigation-cover.png
-│   ├── medical-image-analyser-artwork.png
-│   ├── Autonomous_Navigation_system.png
-│   ├── output_1.png
-│   ├── output_2.png
-│   └── structure.png
+│   ├── Interface.png
+│   └── output.png
 ```
 ---
 
