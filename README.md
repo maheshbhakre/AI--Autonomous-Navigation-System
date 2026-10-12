@@ -25,14 +25,6 @@ Watch the animated preview below, or open/download the full-resolution video:
   <img src="images/autonomous-navigation-cover.png" alt="AI-powered autonomous navigation system project cover" width="800">
 </p>
 
-### Additional project artwork
-
-The following uploaded image is artwork for a separate AI-powered medical image analyser project.
-
-<p align="center">
-  <img src="images/medical-image-analyser-artwork.png" alt="Cover artwork for a separate AI-powered medical image analyser project" width="800">
-</p>
-
 ---
 
 ## ⚡ SYSTEM OVERVIEW
