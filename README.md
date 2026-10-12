@@ -9,12 +9,13 @@
 
 ## 🎬 PROJECT VIDEO
 
-Watch the autonomous navigation project demo:
+Watch the animated preview below, or open/download the full-resolution video:
 
-<video controls width="100%" poster="images/autonomous-navigation-cover.png">
-  <source src="https://github.com/maheshbhakre/AI--Autonomous-Navigation-System/raw/refs/heads/main/videos/autonomous-navigation-demo.mp4" type="video/mp4">
-  Your browser does not support embedded video. <a href="videos/autonomous-navigation-demo.mp4">Open the video file</a>.
-</video>
+<p align="center">
+  <a href="videos/autonomous-navigation-demo.mp4">
+    <img src="videos/autonomous-navigation-preview.gif" alt="Animated preview of the autonomous navigation demo video" width="640">
+  </a>
+</p>
 
 [▶️ Open or download the full demo video](videos/autonomous-navigation-demo.mp4)
 
@@ -89,7 +90,8 @@ AI-AUTONOMOUS-NAVIGATION-SYSTEM/
 ├── requirements.txt
 ├── README.md
 ├── videos/
-│   └── autonomous-navigation-demo.mp4
+│   ├── autonomous-navigation-demo.mp4
+│   └── autonomous-navigation-preview.gif
 ├── ros2_ws/
 │   └── src/autonomous_navigation/
 │       ├── launch/navigation.launch.py
