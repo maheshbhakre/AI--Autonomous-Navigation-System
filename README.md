@@ -7,6 +7,33 @@
 
 ---
 
+## 🎬 PROJECT VIDEO
+
+Watch the autonomous navigation project demo:
+
+<video controls width="100%" poster="images/autonomous-navigation-cover.png">
+  <source src="https://github.com/maheshbhakre/AI--Autonomous-Navigation-System/raw/refs/heads/main/videos/autonomous-navigation-demo.mp4" type="video/mp4">
+  Your browser does not support embedded video. <a href="videos/autonomous-navigation-demo.mp4">Open the video file</a>.
+</video>
+
+[▶️ Open or download the full demo video](videos/autonomous-navigation-demo.mp4)
+
+## 🖼️ PROJECT PHOTOS
+
+<p align="center">
+  <img src="images/autonomous-navigation-cover.png" alt="AI-powered autonomous navigation system project cover" width="800">
+</p>
+
+### Additional project artwork
+
+The following uploaded image is artwork for a separate AI-powered medical image analyser project.
+
+<p align="center">
+  <img src="images/medical-image-analyser-artwork.png" alt="Cover artwork for a separate AI-powered medical image analyser project" width="800">
+</p>
+
+---
+
 ## ⚡ SYSTEM OVERVIEW
 This project is an AI-based Autonomous Navigation System built using grid-based simulation and A* path planning algorithm.
 
@@ -61,11 +88,15 @@ AI-AUTONOMOUS-NAVIGATION-SYSTEM/
 ├── dashboard.html
 ├── requirements.txt
 ├── README.md
+├── videos/
+│   └── autonomous-navigation-demo.mp4
 ├── ros2_ws/
 │   └── src/autonomous_navigation/
 │       ├── launch/navigation.launch.py
 │       └── config/
 ├── images/
+│   ├── autonomous-navigation-cover.png
+│   ├── medical-image-analyser-artwork.png
 │   ├── Autonomous_Navigation_system.png
 │   ├── output_1.png
 │   ├── output_2.png
